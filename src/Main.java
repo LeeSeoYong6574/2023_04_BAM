@@ -7,9 +7,9 @@ public class Main {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		//String cmd = sc.nextLine();
-		int cmd = sc.nextInt();
-		//sc.next();
+		String cmd = sc.nextLine();
+		
+		sc.next();
 		
 		System.out.println(cmd);
 		
