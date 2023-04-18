@@ -5,6 +5,7 @@ public class Article {
 	public String regDate;
 	public String title;
 	public String body;
+	public int getArticleById;
 	
 	public Article(int id, String regDate, String title, String body) {
 		this.id = id;
